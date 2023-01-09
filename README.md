@@ -32,4 +32,6 @@ A listing of (technical) career openings at certified B Corporations.
 | [Coffective](https://www.bcorporation.net/en-us/find-a-b-corp/company/coffective-l-l-c) | Tech Based Service | Service with Minor Environmental Footprint | https://coffective.com/about/team/ |
 | [Ulula](https://www.bcorporation.net/en-us/find-a-b-corp/company/ulula) | SaaS Platforms | Service with Minor Environmental Footprint | https://ulula.com/our-company/#careers |
 | [MedHaul]( https://www.bcorporation.net/en-us/find-a-b-corp/company/med-haul) | Technology-based support services | Service with Significant Environmental Footprint | https://www.gomedhaul.com/careers |
+| [Frank](https://www.bcorporation.net/en-us/find-a-b-corp/company/frank) | Saas Platforms | Service with Minor Environmental Footprint | https://getfrank.notion.site/Jobs-cec0ffb8c3c943aaa05d7634218af485 |
+| [Classy](https://www.bcorporation.net/en-us/find-a-b-corp/company/classy) | Saas Platforms | Service with Minor Environmental Footprint | https://www.classy.org/careers/ |
 
