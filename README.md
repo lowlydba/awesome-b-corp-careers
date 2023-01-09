@@ -1,5 +1,5 @@
-# b-corp-careers
-A listing of career openings at certified B Corporations.
+# awesome-b-corp-careers
+A listing of (technical) career openings at certified B Corporations.
 
 - [What is a B Corp?](#what-is-a-b-corp)
 - [Listings](#listings)
@@ -18,6 +18,12 @@ A listing of career openings at certified B Corporations.
 
 ## Listings
 
-| Name | Sector | URL |
-| ---- | ------ | --- |
-| Fully | Wholesale/Retail | https://www.fully.com/careers |
+| Name | Sector | URL | B Corp Listing |
+| ---- | ------ | --- | -------------- |
+| Fully | Wholesale/Retail | https://www.fully.com/careers | |
+| Sensat | Saas Platforms | https://sensat.notion.site/Careers-at-Sensat-a47cf24fbfd94b55b81a090cbe67a565 |
+| Adept-ID | Saas Platforms | https://www.adept-id.com/careers/ |
+| Volpara | Health | https://www.volparahealth.com/careers/current-opportunities/ |
+| Greenly | Saas Platforms | | https://www.bcorporation.net/en-us/find-a-b-corp/company/greenly |
+| Grateful App | App | https://www.begrateful.org/contact | https://www.bcorporation.net/en-us/find-a-b-corp/company/grateful-app |
+| Civic Champs | Saas Platforms | https://www.civicchamps.com/careers | https://www.bcorporation.net/en-us/find-a-b-corp/company/civic-champs |
