@@ -18,16 +18,18 @@ A listing of (technical) career openings at certified B Corporations.
 
 ## Listings
 
-| Name | Indsutry | Sector | URL | B Corp Listing | 
-| ---- | -------- | ------ | --- | -------------- |
-| Fully | Wholesale/Retail | | https://www.fully.com/careers | |
+| Name | Indsutry | Sector | URL | 
+| ---- | -------- | ------ | --- | 
+| Fully | Wholesale/Retail | | https://www.fully.com/careers |
 | Sensat | Saas Platforms | | https://sensat.notion.site/Careers-at-Sensat-a47cf24fbfd94b55b81a090cbe67a565 |
 | Adept-ID | Saas Platforms | | https://www.adept-id.com/careers/ |
 | Volpara | Health | | https://www.volparahealth.com/careers/current-opportunities/ |
-| Greenly | Saas Platforms | | | https://www.bcorporation.net/en-us/find-a-b-corp/company/greenly |
-| Grateful App | App | | https://www.begrateful.org/contact | https://www.bcorporation.net/en-us/find-a-b-corp/company/grateful-app |
-| Civic Champs | Saas Platforms | | https://www.civicchamps.com/careers | https://www.bcorporation.net/en-us/find-a-b-corp/company/civic-champs |
-| Disaster Tech | Saas Platforms | | https://www.disastertech.com/careers | https://www.bcorporation.net/en-us/find-a-b-corp/company/disaster-tech |
-| Roompact | Saas Platforms | | https://www.roompact.com/about/careers-at-roompact/ | https://www.bcorporation.net/en-us/find-a-b-corp/company/roompact |
-| Coffective | Tech Based Service | Service with Minor Environmental Footprint | https://coffective.com/about/team/ | https://www.bcorporation.net/en-us/find-a-b-corp/company/coffective-l-l-c |
+| [Greenly](https://www.bcorporation.net/en-us/find-a-b-corp/company/greenly) | Saas Platforms | | |
+| [Grateful App](https://www.bcorporation.net/en-us/find-a-b-corp/company/grateful-app) | App | | https://www.begrateful.org/contact |
+| [Civic Champs](https://www.bcorporation.net/en-us/find-a-b-corp/company/civic-champs) | Saas Platforms | | https://www.civicchamps.com/careers |
+| [Disaster Tech](https://www.bcorporation.net/en-us/find-a-b-corp/company/disaster-tech) | Saas Platforms | | https://www.disastertech.com/careers |
+| [Roompact](https://www.bcorporation.net/en-us/find-a-b-corp/company/roompact) | Saas Platforms | | https://www.roompact.com/about/careers-at-roompact/ |
+| [Coffective](https://www.bcorporation.net/en-us/find-a-b-corp/company/coffective-l-l-c) | Tech Based Service | Service with Minor Environmental Footprint | https://coffective.com/about/team/ |
+| [Ulula](https://www.bcorporation.net/en-us/find-a-b-corp/company/ulula) | SaaS Platforms | Service with Minor Environmental Footprint | https://ulula.com/our-company/#careers |
+| [MedHaul]( https://www.bcorporation.net/en-us/find-a-b-corp/company/med-haul) | Technology-based support services | Service with Significant Environmental Footprint | https://www.gomedhaul.com/careers |
 
