@@ -18,12 +18,16 @@ A listing of (technical) career openings at certified B Corporations.
 
 ## Listings
 
-| Name | Sector | URL | B Corp Listing |
-| ---- | ------ | --- | -------------- |
-| Fully | Wholesale/Retail | https://www.fully.com/careers | |
-| Sensat | Saas Platforms | https://sensat.notion.site/Careers-at-Sensat-a47cf24fbfd94b55b81a090cbe67a565 |
-| Adept-ID | Saas Platforms | https://www.adept-id.com/careers/ |
-| Volpara | Health | https://www.volparahealth.com/careers/current-opportunities/ |
-| Greenly | Saas Platforms | | https://www.bcorporation.net/en-us/find-a-b-corp/company/greenly |
-| Grateful App | App | https://www.begrateful.org/contact | https://www.bcorporation.net/en-us/find-a-b-corp/company/grateful-app |
-| Civic Champs | Saas Platforms | https://www.civicchamps.com/careers | https://www.bcorporation.net/en-us/find-a-b-corp/company/civic-champs |
+| Name | Indsutry | Sector | URL | B Corp Listing | 
+| ---- | -------- | ------ | --- | -------------- |
+| Fully | Wholesale/Retail | | https://www.fully.com/careers | |
+| Sensat | Saas Platforms | | https://sensat.notion.site/Careers-at-Sensat-a47cf24fbfd94b55b81a090cbe67a565 |
+| Adept-ID | Saas Platforms | | https://www.adept-id.com/careers/ |
+| Volpara | Health | | https://www.volparahealth.com/careers/current-opportunities/ |
+| Greenly | Saas Platforms | | | https://www.bcorporation.net/en-us/find-a-b-corp/company/greenly |
+| Grateful App | App | | https://www.begrateful.org/contact | https://www.bcorporation.net/en-us/find-a-b-corp/company/grateful-app |
+| Civic Champs | Saas Platforms | | https://www.civicchamps.com/careers | https://www.bcorporation.net/en-us/find-a-b-corp/company/civic-champs |
+| Disaster Tech | Saas Platforms | | https://www.disastertech.com/careers | https://www.bcorporation.net/en-us/find-a-b-corp/company/disaster-tech |
+| Roompact | Saas Platforms | | https://www.roompact.com/about/careers-at-roompact/ | https://www.bcorporation.net/en-us/find-a-b-corp/company/roompact |
+| Coffective | Tech Based Service | Service with Minor Environmental Footprint | https://coffective.com/about/team/ | https://www.bcorporation.net/en-us/find-a-b-corp/company/coffective-l-l-c |
+
